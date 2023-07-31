@@ -1,8 +1,8 @@
-package designpattern.decorator;
+package designpatterns.structural_patterns.decorator;
 
-import designpattern.decorator.decorator.CrossingDecorator;
-import designpattern.decorator.decorator.LaneDecorator;
-import designpattern.decorator.decorator.TrafficDecorator;
+import designpatterns.structural_patterns.decorator.decorator.CrossingDecorator;
+import designpatterns.structural_patterns.decorator.decorator.LaneDecorator;
+import designpatterns.structural_patterns.decorator.decorator.TrafficDecorator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

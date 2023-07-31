@@ -1,6 +1,6 @@
-package designpattern.decorator.decorator;
+package designpatterns.structural_patterns.decorator.decorator;
 
-import designpattern.decorator.Display;
+import designpatterns.structural_patterns.decorator.Display;
 
 public class CrossingDecorator extends DisplayDecorator {
 

@@ -1,4 +1,4 @@
-package designpattern.decorator;
+package designpatterns.structural_patterns.decorator;
 
 public class RoadDisplay extends Display {
 
