@@ -1,4 +1,4 @@
-package designpatterns.behavioral_patterns.template._03_after;
+package designpatterns.behavioral_patterns.template._02_after;
 
 public class LGMotor extends Motor {
 
